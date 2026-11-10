@@ -1,0 +1,21 @@
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS and Editor Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Performance and Plot Output Backups
+*.log
