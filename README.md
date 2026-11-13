@@ -62,7 +62,7 @@ IC-2K23-51-DAA-Khushi_Dixit/
 
 ### Installation
 ```bash
-git clone https://github.com/anonymousclient/IC-2K23-51-DAA-Dishan_Sheikh.git
-cd IC-2K23-51-DAA-Dishan_Sheikh
+git clone https://github.com/anonymousclient/IC-2K23-51-DAA-Khushi_Dixit.git
+cd IC-2K23-51-DAA-Khushi_Dixit
 pip install -r requirements.txt
 ```
