@@ -19,7 +19,7 @@ All algorithm implementations are developed in pure Python adhering to undergrad
 ## 📂 Directory Structure
 
 ```text
-IC-2K23-51-DAA-Dishan_Sheikh/
+IC-2K23-51-DAA-Khushi_Dixit/
 ├── Unit01-Introduction-Algorithms/   # Array Operations, Iterative & Recursive Binary Search, Performance Analysis
 ├── Unit02-Divide-and-Conquer/        # Binary Search, Max-Min, Merge Sort, Quick Sort, Heap Sort, Strassen
 ├── Unit03-Greedy-Method/             # Fractional Knapsack, Job Sequencing, Prim's, Kruskal's MST
